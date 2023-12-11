@@ -1,0 +1,1 @@
+Supermarket queue simulator in python usig matplotlib and numpy, made for statistics class in university.
